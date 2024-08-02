@@ -1,2 +1,2 @@
 # Eclipse-Spring-Projects
-This Repository has 
+This Repository has basic to intermediate spring projects
