@@ -4,3 +4,4 @@ This Repository has basic to intermediate spring projects
 ### springboot
 ### spring data JPA
 ### spring dev tools
+### spring core
