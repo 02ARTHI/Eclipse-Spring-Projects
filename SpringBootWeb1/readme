@@ -1,1 +1,3 @@
-create docker file
+STEP1 - create docker file
+STEP2 - Run maven clean install to generate zip file
+STEP3 - 
